@@ -1,0 +1,49 @@
+### Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+/.mvn/
+/.settings/
+/.project
+/.classpath
+
+### Spring Boot
+/logs/
+*.log
+*.tmp
+
+### Node / Frontend
+node_modules/
+carpool-frontend/node_modules/
+dist/
+build/
+
+### Vite
+/dist/
+
+### Environment
+.env
+.env.*
+
+### IDEs
+.idea/
+.vscode/
+*.iml
+
+### OS
+.DS_Store
+Thumbs.db
+
+### Database and binaries
+/mysql_db/
+/mysql_fresh/
+
+### Build artifacts
+/backend/target/
+/**/*.class
+
+### Uploads and runtime files
+/backend/uploads/
+/campus-rides/uploads/

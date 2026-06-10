@@ -1,0 +1,10 @@
+2026-06-10T20:23:38.161285Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.45) starting as process 16900
+2026-06-10T20:23:38.221391Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-06-10T20:23:39.108815Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-06-10T20:23:39.294360Z 0 [Warning] [MY-011311] [Server] Plugin mysqlx reported: 'All I/O interfaces are disabled, X Protocol won't be accessible'
+2026-06-10T20:23:39.421649Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-06-10T20:23:39.422389Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-06-10T20:23:39.477254Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.45'  socket: ''  port: 0  MySQL Community Server - GPL.
+2026-06-10T20:23:39.478434Z 0 [ERROR] [MY-010131] [Server] TCP/IP, --shared-memory, or --named-pipe should be configured on NT OS
+2026-06-10T20:23:39.479126Z 0 [ERROR] [MY-010119] [Server] Aborting
+2026-06-10T20:23:40.626027Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.45)  MySQL Community Server - GPL.
